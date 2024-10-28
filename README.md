@@ -1,8 +1,4 @@
-![Logo Gaelle](https://github.com/GaelleHenaf/GaelleHenaf/blob/main/logo-gh.png)
-
-
-Graphiste, Créatrice de sites Wordpress et formatrice depuis plus de 10 c'est en me tournant vers l'avenir que j'ai découvert le métier de Data Analyst. 
-Passionnée de casse-tête et de mathématiques, résoudre des énigmes est une véritable vocation.  De plus, mon appétence vers le design m’a permis d’acquérir les bases de l’expérience utilisateur utile à la retransmission des données.
+Graphiste, Créatrice de sites Wordpress et formatrice depuis plus de 10 c'est en me tournant vers l'avenir que j'ai découvert le métier de Data Analyst. Passionnée de casse-tête et de mathématiques, résoudre des énigmes est une véritable vocation.  De plus, mon appétence vers le design m’a permis d’acquérir les bases de l’expérience utilisateur utile à la retransmission des données.
 
 -----------
 ## Compétences
